@@ -1,0 +1,1290 @@
+2018-Sep-13 17:01:01.670137 INFO    [daemon] Constella v1.4.1.1 (0.1-master-g76fd56e)
+2018-Sep-13 17:01:01.670466 INFO    [daemon] Module folder: ./Constellad
+2018-Sep-13 17:01:01.672415 INFO    [RocksDBWrapper] Opening DB in /root/.Constella/DB
+2018-Sep-13 17:01:01.701790 ERROR   [RocksDBWrapper] DB Error. DB can't be opened in /root/.Constella/DB. Error: IO error: While lock file: /root/.Constella/DB/LOCK: Resource temporarily unavailable
+2018-Sep-13 17:01:01.702632 ERROR   [daemon] Exception: IO error
+2018-Sep-13 17:05:31.943810 INFO    [daemon] Constella v1.4.1.1 (0.1-master-g76fd56e)
+2018-Sep-13 17:05:31.947578 INFO    [daemon] Module folder: ./Constellad
+2018-Sep-13 17:05:31.947722 INFO    [RocksDBWrapper] Opening DB in /root/.Constella/DB
+2018-Sep-13 17:05:32.032782 INFO    [RocksDBWrapper] DB opened in /root/.Constella/DB
+2018-Sep-13 17:05:32.059251 INFO    [daemon] Initializing core...
+2018-Sep-13 17:05:32.062060 INFO    [daemon] Core initialized OK
+2018-Sep-13 17:05:32.062197 INFO    [daemon] Initializing p2p server...
+2018-Sep-13 17:05:32.062233 ERROR   [node_server] Failed to parse seed address from string: 'seed.constellacoin.cl'
+2018-Sep-13 17:05:32.062261 ERROR   [node_server] Failed to parse seed address from string: 'seed1.constellacoin.cl'
+2018-Sep-13 17:05:32.062322 ERROR   [node_server] Failed to parse seed address from string: 'seed2.constellacoin.cl'
+2018-Sep-13 17:05:32.062366 ERROR   [node_server] Failed to parse seed address from string: 'seed3.constellacoin.cl'
+2018-Sep-13 17:05:32.062409 ERROR   [node_server] Failed to parse seed address from string: 'seed4.constellacoin.cl'
+2018-Sep-13 17:05:32.062485 ERROR   [node_server] Failed to parse seed address from string: 'seed5.constellacoin.cl'
+2018-Sep-13 17:05:32.062693 INFO    [node_server] Binding on 0.0.0.0:42648
+2018-Sep-13 17:05:32.062759 INFO    [node_server] Net service binded on 0.0.0.0:42648
+2018-Sep-13 17:05:32.062789 INFO    [node_server] Attempting to add IGD port mapping.
+2018-Sep-13 17:21:08.293423 INFO    [daemon] Constella v1.4.1.1 (0.1-master-g76fd56e)
+2018-Sep-13 17:21:08.293618 INFO    [daemon] Module folder: ./Constellad
+2018-Sep-13 17:21:08.293751 INFO    [RocksDBWrapper] Opening DB in /root/.Constella/DB
+2018-Sep-13 17:21:08.402507 INFO    [RocksDBWrapper] DB opened in /root/.Constella/DB
+2018-Sep-13 17:21:08.404271 INFO    [daemon] Initializing core...
+2018-Sep-13 17:21:08.406340 INFO    [daemon] Core initialized OK
+2018-Sep-13 17:21:08.406426 INFO    [daemon] Initializing p2p server...
+2018-Sep-13 17:21:08.406471 ERROR   [node_server] Failed to parse seed address from string: 'seed.constellacoin.cl'
+2018-Sep-13 17:21:08.406514 ERROR   [node_server] Failed to parse seed address from string: 'seed1.constellacoin.cl'
+2018-Sep-13 17:21:08.406555 ERROR   [node_server] Failed to parse seed address from string: 'seed2.constellacoin.cl'
+2018-Sep-13 17:21:08.406595 ERROR   [node_server] Failed to parse seed address from string: 'seed3.constellacoin.cl'
+2018-Sep-13 17:21:08.406635 ERROR   [node_server] Failed to parse seed address from string: 'seed4.constellacoin.cl'
+2018-Sep-13 17:21:08.406675 ERROR   [node_server] Failed to parse seed address from string: 'seed5.constellacoin.cl'
+2018-Sep-13 17:21:08.406804 INFO    [node_server] Binding on 0.0.0.0:42648
+2018-Sep-13 17:21:08.406881 INFO    [node_server] Net service binded on 0.0.0.0:42648
+2018-Sep-13 17:21:08.406926 INFO    [node_server] Attempting to add IGD port mapping.
+2018-Sep-13 17:21:09.418016 ERROR   [node_server] UPNP_AddPortMapping failed.
+2018-Sep-13 17:21:09.418128 INFO    [daemon] P2p server initialized OK
+2018-Sep-13 17:21:09.418263 INFO    [daemon] Starting core rpc server on address 127.0.0.1:42649
+2018-Sep-13 17:21:09.418356 INFO    [daemon] Core rpc server started ok
+2018-Sep-13 17:21:09.418426 INFO    [daemon] Starting p2p net loop...
+2018-Sep-13 17:21:09.418483 INFO    [node_server] Starting node_server
+2018-Sep-13 17:21:09.425683 INFO    [node_server] [39.104.92.151:63278 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:21:09.679153 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:21:09.679313 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:21:14.752127 INFO    [node_server] [198.58.100.102:58869 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:21:15.614847 INFO    [node_server] [66.228.51.180:49925 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:21:15.869069 INFO    [node_server] [103.3.60.49:55015 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:21:16.396940 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:21:16.397075 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:21:16.660002 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:21:16.660135 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:21:17.393919 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:21:17.394069 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:21:17.475345 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:21:17.475472 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:21:20.498015 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:21:20.498124 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:21:20.785937 INFO    [node_server] [198.58.113.176:52705 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:21:27.864886 INFO    [node_server] [66.228.51.180:46837 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:21:30.000600 INFO    [node_server] [45.79.7.190:38465 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:21:31.770550 INFO    [node_server] [45.33.10.212:41693 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:21:43.694545 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:21:43.694666 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:21:43.960130 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:21:43.960238 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:21:44.223276 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:21:44.223391 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:21:45.148979 INFO    [node_server] [66.228.51.180:48183 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:21:47.496761 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:21:47.496893 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:21:47.500028 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:21:47.500170 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:21:52.587637 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:21:52.587769 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:21:55.869957 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:21:55.870088 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:21:56.871118 INFO    [node_server] [198.58.113.176:41371 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:21:59.317605 INFO    [node_server] [103.3.60.49:55923 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:22:07.929282 INFO    [node_server] [203.205.28.162:49983 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:22:10.426962 INFO    [node_server] [39.104.92.151:63371 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:22:10.467787 INFO    [node_server] [198.58.100.102:49107 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:22:13.581560 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:22:13.581823 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:22:15.637940 INFO    [node_server] [206.189.148.184:41577 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:22:16.858210 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:22:16.858544 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:22:16.946251 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:22:16.946361 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:22:19.877829 INFO    [node_server] [66.228.51.180:34835 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:22:20.229867 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:22:20.229989 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:22:26.700087 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:22:26.700218 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:22:28.544282 INFO    [node_server] [45.33.10.212:53379 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:22:32.130349 INFO    [node_server] [66.228.51.180:55603 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:22:43.034999 INFO    [node_server] [103.3.60.49:57195 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:22:49.329801 INFO    [node_server] [198.58.113.176:38941 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:22:49.382327 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:22:49.382448 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:22:49.644575 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:22:49.644689 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:22:57.775711 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:22:57.775824 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:22:58.507088 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:22:58.507439 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:23:03.312250 INFO    [node_server] [200.104.217.242:53145 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:23:03.771787 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:23:03.771907 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:23:04.036662 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:23:04.036787 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:23:04.039961 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:23:04.040113 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:23:06.892666 INFO    [node_server] [203.205.28.162:50921 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:23:16.443510 INFO    [node_server] [45.79.7.190:49943 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:23:16.636810 INFO    [node_server] [103.3.60.49:55759 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:23:20.039990 INFO    [node_server] [198.58.100.102:53485 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:23:20.369711 INFO    [node_server] [198.58.113.176:50501 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:23:36.603782 INFO    [node_server] [200.104.217.242:53159 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:23:41.789934 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:23:41.790055 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:23:45.086993 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:23:45.087130 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:23:45.090503 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:23:45.090627 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:23:45.170316 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:23:45.170431 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:23:51.542706 INFO    [node_server] [66.228.51.180:50569 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:23:53.447179 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:23:53.447296 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:23:59.509230 INFO    [node_server] [206.189.148.184:46903 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:24:00.770353 INFO    [node_server] [198.58.100.102:53129 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:24:07.401251 INFO    [node_server] [198.58.113.176:59467 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:24:09.658475 INFO    [node_server] [103.3.60.49:46315 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:24:16.674754 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:24:16.674871 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:24:18.193795 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:24:18.193894 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:24:18.454850 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:24:18.454969 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:24:19.027292 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:24:19.027418 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:24:23.157331 INFO    [node_server] [45.33.10.212:47005 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:24:23.814721 INFO    [node_server] [66.228.51.180:45323 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:24:24.553062 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:24:24.553187 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:24:24.822758 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:24:24.822881 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:24:46.058265 INFO    [node_server] [66.228.51.180:40969 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:24:47.520688 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:24:47.520809 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:24:47.987222 INFO    [node_server] [103.3.60.49:33165 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:24:52.607966 INFO    [node_server] [198.58.113.176:53693 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:24:55.828816 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:24:55.828935 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:24:56.090639 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:24:56.090752 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:24:56.161714 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:24:56.161968 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:24:58.304127 INFO    [node_server] [66.228.51.180:57921 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:24:58.887360 INFO    [node_server] [45.33.10.212:33685 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:25:04.431839 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:25:04.431958 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:25:05.637898 INFO    [node_server] [45.79.7.190:45409 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:25:13.764031 INFO    [node_server] [203.205.28.162:48791 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:25:13.881943 INFO    [node_server] [198.58.100.102:58587 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:25:19.724226 INFO    [node_server] [206.189.148.184:36433 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:25:26.711893 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:25:26.712010 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:25:26.972689 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:25:26.972809 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:25:27.533530 INFO    [node_server] [200.104.217.242:53199 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:25:27.760149 INFO    [node_server] [66.228.51.180:33395 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:25:31.153926 INFO    [node_server] [198.58.113.176:40953 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:25:39.102034 INFO    [node_server] [103.3.60.49:38365 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:25:39.351252 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:25:39.351368 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:25:42.369459 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:25:42.369555 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:25:43.061037 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:25:43.061148 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:25:43.325824 INFO    [node_server] [39.104.92.151:63673 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:25:47.709206 INFO    [node_server] [45.33.10.212:33123 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:25:58.286518 INFO    [node_server] [45.79.7.190:49383 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:26:01.473292 INFO    [node_server] [198.58.100.102:40155 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:26:05.775665 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:26:05.775782 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:26:06.041281 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:26:06.041405 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:26:08.126271 INFO    [node_server] [45.33.10.212:53619 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:26:09.149052 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:26:09.149168 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:26:14.671002 INFO    [node_server] [66.228.51.180:43339 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:26:14.870166 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:26:14.870279 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:26:14.872791 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:26:14.872934 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:26:15.135551 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:26:15.135669 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:26:16.292952 INFO    [node_server] [206.189.148.184:37731 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:26:22.361408 INFO    [node_server] [198.58.113.176:55047 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:26:22.576818 INFO    [node_server] [103.3.60.49:44863 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:26:36.635761 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:26:36.635887 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:26:36.897120 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:26:36.897249 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:26:36.900594 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:26:36.900714 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:26:37.645286 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:26:37.645408 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:26:37.906121 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:26:37.906239 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:26:39.218356 INFO    [node_server] [200.104.217.242:53225 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:26:43.175256 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:26:43.175379 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:26:46.954600 INFO    [node_server] [66.228.51.180:59273 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:26:57.565644 INFO    [node_server] [198.58.113.176:49903 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:27:01.192643 INFO    [node_server] [103.3.60.49:52919 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:27:04.232825 INFO    [node_server] [66.228.51.180:34065 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:27:10.815462 INFO    [node_server] [203.205.28.162:48229 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:27:17.389422 INFO    [node_server] [45.33.10.212:57565 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:27:18.902318 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:27:18.902433 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:27:19.164286 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:27:19.164399 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:27:19.167594 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:27:19.167715 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:27:19.429772 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:27:19.429887 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:27:20.110632 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:27:20.110748 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:27:20.689833 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:27:20.689949 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:27:26.738081 INFO    [node_server] [66.228.51.180:34645 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:27:27.766570 INFO    [node_server] [206.189.148.184:37286 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:27:29.974545 INFO    [node_server] [45.33.10.212:40339 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:27:32.656658 INFO    [node_server] [200.104.217.242:53253 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:27:34.175561 INFO    [node_server] [198.58.113.176:40329 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:27:44.869215 INFO    [node_server] [103.3.60.49:44555 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:27:49.189116 INFO    [node_server] [39.104.92.151:63841 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:27:51.430911 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:27:51.431044 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:27:51.691733 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:27:51.691856 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:27:57.420750 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:27:57.420867 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:27:58.055452 INFO    [node_server] [45.79.7.190:51981 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:28:00.298376 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:28:00.298495 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:28:00.566888 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:28:00.567020 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:28:00.829994 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:28:00.830111 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:28:01.194308 INFO    [node_server] [200.104.217.242:53264 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:28:02.708882 INFO    [node_server] [45.33.10.212:38927 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:28:03.321928 INFO    [node_server] [198.58.113.176:50675 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:28:11.285837 INFO    [node_server] [66.228.51.180:52487 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:28:14.415462 INFO    [node_server] [203.205.28.162:51637 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:28:27.718419 INFO    [node_server] [45.33.10.212:40911 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:28:32.013431 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:28:32.013559 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:28:32.913803 INFO    [node_server] [103.3.60.49:56925 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:28:33.533202 INFO    [node_server] [66.228.51.180:54293 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:28:37.279049 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:28:37.279188 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:28:37.545408 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:28:37.545552 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:28:37.548577 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:28:37.548723 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:28:37.815218 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:28:37.815350 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:28:38.567243 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:28:38.567367 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:28:41.322481 INFO    [node_server] [66.228.51.180:45219 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:28:43.124741 INFO    [node_server] [45.33.10.212:34041 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:28:43.826712 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:28:43.826827 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:28:54.575349 INFO    [node_server] [200.104.217.242:53285 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:29:05.376064 INFO    [node_server] [45.33.10.212:56317 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:29:05.476030 INFO    [node_server] [39.104.92.151:63955 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:29:06.485903 INFO    [node_server] [103.3.60.49:57213 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:29:09.481175 INFO    [node_server] [206.189.148.184:56709 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:29:11.118000 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:29:11.118118 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:29:11.384948 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:29:11.385067 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:29:11.668268 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:29:11.668378 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:29:12.866910 INFO    [node_server] [203.205.28.162:35643 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:29:12.996829 INFO    [node_server] [200.104.217.242:53294 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:29:19.331001 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:29:19.331133 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:29:20.066694 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:29:20.066816 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:29:25.069287 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:29:25.069410 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:29:26.114452 INFO    [node_server] [45.33.10.212:37321 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:29:28.359174 INFO    [node_server] [66.228.51.180:43941 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:29:31.270877 INFO    [node_server] [45.79.7.190:46919 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:29:40.878115 INFO    [node_server] [66.228.51.180:37393 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:29:50.807415 INFO    [node_server] [103.3.60.49:54349 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:29:55.803903 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:29:55.804044 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:29:56.512171 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:29:56.512303 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:29:58.276399 INFO    [node_server] [45.33.10.212:39565 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:30:01.375060 INFO    [node_server] [200.104.217.242:53311 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:30:01.667162 INFO    [node_server] [39.104.92.151:64046 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:30:01.778508 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:30:01.778625 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:30:06.858199 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:30:06.858343 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:30:07.146638 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:30:07.146762 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:30:07.326510 INFO    [node_server] [203.205.28.162:52359 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:30:20.592340 INFO    [node_server] [198.58.113.176:43823 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:30:21.091976 INFO    [node_server] [45.33.10.212:38525 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:30:25.534204 INFO    [node_server] [66.228.51.180:58495 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:30:27.800277 INFO    [node_server] [66.228.51.180:35453 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:30:27.823741 INFO    [node_server] [206.189.148.184:47081 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:30:31.410743 INFO    [node_server] [198.58.100.102:33265 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:30:32.437168 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:30:32.437292 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:30:33.636916 INFO    [node_server] [45.33.10.212:56049 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:30:34.240025 INFO    [node_server] [103.3.60.49:45387 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:30:34.383381 INFO    [node_server] [45.79.7.190:53173 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:30:46.580090 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:30:46.580218 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:30:46.583407 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:30:46.583524 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:30:46.845221 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:30:46.845337 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:30:47.106989 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:30:47.107106 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:30:47.854127 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:30:47.854260 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:30:52.761912 INFO    [node_server] [45.33.10.212:53801 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:30:55.569752 INFO    [node_server] [66.228.51.180:35815 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:30:57.830928 INFO    [node_server] [66.228.51.180:37377 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:30:57.903332 INFO    [node_server] [39.104.92.151:64124 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:31:01.114709 INFO    [node_server] [198.58.113.176:60973 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:31:01.658240 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:31:01.658365 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:31:01.756210 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:31:01.756320 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:31:02.432956 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:31:02.433073 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:31:08.011162 INFO    [node_server] [200.104.217.242:53337 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:31:08.721184 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:31:08.721297 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:31:08.983855 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:31:08.983978 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:31:11.303271 INFO    [node_server] [203.205.28.162:35041 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:31:14.078902 INFO    [node_server] [198.58.100.102:50159 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:31:17.879418 INFO    [node_server] [206.189.148.184:45556 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:31:20.620654 INFO    [node_server] [66.228.51.180:52055 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:31:22.511188 INFO    [node_server] [103.3.60.49:45457 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:31:26.360076 INFO    [node_server] [45.33.10.212:55589 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:31:30.217461 INFO    [node_server] [45.79.7.190:34275 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:31:31.695773 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:31:31.695886 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:31:35.673585 INFO    [node_server] [198.58.113.176:33961 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:31:38.136210 INFO    [node_server] [66.228.51.180:42793 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:31:41.479009 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:31:41.479156 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:31:44.602059 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:31:44.602169 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:31:44.864861 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:31:44.864971 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:31:45.129602 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:31:45.129776 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:31:45.394305 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:31:45.394424 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:31:55.421941 INFO    [node_server] [66.228.51.180:47193 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:32:01.396468 INFO    [node_server] [200.104.217.242:53355 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:32:07.680464 INFO    [node_server] [66.228.51.180:54557 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:32:08.087693 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:32:08.087822 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:32:08.672155 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:32:08.672305 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:32:09.098235 INFO    [node_server] [39.104.92.151:64232 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:32:09.780178 INFO    [node_server] [203.205.28.162:51435 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:32:11.693087 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:32:11.693188 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:32:11.958066 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:32:11.958172 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:32:12.034464 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:32:12.034580 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:32:13.658521 INFO    [node_server] [198.58.100.102:57865 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:32:13.680963 INFO    [node_server] [103.3.60.49:54861 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:32:21.860006 INFO    [node_server] [206.189.148.184:38676 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:32:22.297584 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:32:22.297811 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:32:25.095462 INFO    [node_server] [200.104.217.242:53365 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:32:39.675608 INFO    [node_server] [45.33.10.212:60739 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:32:45.000926 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:32:45.001059 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:32:46.930918 INFO    [node_server] [45.33.10.212:39253 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:32:48.289038 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:32:48.289165 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:32:49.005781 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:32:49.005903 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:32:49.009290 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:32:49.009413 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:32:52.305537 INFO    [node_server] [39.104.92.151:64301 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:32:54.115279 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:32:54.115402 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:32:57.467329 INFO    [node_server] [66.228.51.180:58731 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:32:59.380224 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:32:59.380337 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:33:00.405129 INFO    [node_server] [198.58.113.176:42229 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:33:04.781678 INFO    [node_server] [103.3.60.49:38743 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:33:07.194829 INFO    [node_server] [200.104.217.242:53380 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:33:09.009318 INFO    [node_server] [203.205.28.162:39881 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:33:09.726386 INFO    [node_server] [66.228.51.180:56071 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:33:16.299286 INFO    [node_server] [45.33.10.212:53381 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:33:17.596484 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:33:17.596619 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:33:17.857700 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:33:17.857823 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:33:17.861225 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:33:17.861346 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:33:18.123860 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:33:18.123977 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:33:24.596804 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:33:24.596943 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:33:26.905963 INFO    [node_server] [206.189.148.184:50167 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:33:27.002889 INFO    [node_server] [66.228.51.180:36863 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:33:27.718403 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:33:27.718532 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:33:29.671587 INFO    [node_server] [45.79.7.190:49233 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:33:34.517941 INFO    [node_server] [198.58.113.176:40689 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:33:37.315464 INFO    [node_server] [45.33.10.212:45157 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:33:49.510175 INFO    [node_server] [66.228.51.180:58591 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:33:50.496629 INFO    [node_server] [39.104.92.151:64385 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:33:51.067674 INFO    [node_server] [200.104.217.242:53396 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:33:55.511400 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:33:55.511538 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:33:55.775376 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:33:55.775498 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:33:55.778909 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:33:55.779052 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:33:55.970525 INFO    [node_server] [103.3.60.49:33663 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:33:56.038829 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:33:56.038955 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:33:56.834022 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:33:56.834153 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:33:57.498592 INFO    [node_server] [203.205.28.162:50469 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:33:59.010089 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:33:59.010217 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:34:02.063076 INFO    [node_server] [66.228.51.180:50199 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:34:03.078349 INFO    [node_server] [45.33.10.212:46397 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:34:10.342963 INFO    [node_server] [45.33.10.212:60949 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:34:14.237832 INFO    [node_server] [198.58.113.176:42349 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:34:22.340202 INFO    [node_server] [45.79.7.190:43223 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:34:29.761929 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:34:29.762043 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:34:29.765239 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:34:29.765448 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:34:30.029928 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:34:30.030058 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:34:30.802531 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:34:30.802671 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:34:34.342873 INFO    [node_server] [206.189.148.184:50784 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:34:34.430954 INFO    [node_server] [103.3.60.49:57881 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:34:35.877921 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:34:35.878061 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:34:36.147531 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:34:36.147650 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:34:36.420175 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:34:36.420294 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:34:47.293066 INFO    [node_server] [66.228.51.180:33901 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:34:54.127085 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:34:54.127210 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:34:54.870138 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:34:54.870258 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:34:55.136043 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:34:55.136175 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:34:55.139503 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:34:55.139631 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:34:58.245052 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:34:58.245164 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:34:58.883097 INFO    [node_server] [39.104.92.151:64489 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:35:01.546210 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:35:01.546336 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:35:01.822210 INFO    [node_server] [66.228.51.180:58855 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:35:03.583873 INFO    [node_server] [45.33.10.212:53519 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:35:06.889776 INFO    [node_server] [203.205.28.162:50311 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:35:08.017356 INFO    [node_server] [103.3.60.49:42959 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:35:08.307902 INFO    [node_server] [45.79.7.190:54701 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:35:12.824242 INFO    [node_server] [198.58.100.102:37939 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:35:20.556068 INFO    [node_server] [45.33.10.212:39839 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:35:24.239579 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:35:24.239708 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:35:24.501173 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:35:24.501304 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:35:24.504480 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:35:24.504613 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:35:25.955178 INFO    [node_server] [206.189.148.184:55526 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:35:33.284770 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:35:33.284907 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:35:34.101955 INFO    [node_server] [66.228.51.180:32845 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:35:40.866833 INFO    [node_server] [200.104.217.242:53439 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:35:41.585022 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:35:41.585166 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:35:41.642626 INFO    [node_server] [66.228.51.180:55635 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:35:41.664717 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:35:41.664847 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:35:42.425084 INFO    [node_server] [198.58.113.176:53611 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:35:56.115619 INFO    [node_server] [45.79.7.190:50961 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:36:02.279473 INFO    [node_server] [103.3.60.49:40243 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:36:04.392291 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:36:04.392403 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:36:04.680120 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:36:04.680241 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:36:04.946767 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:36:04.946892 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:36:05.217843 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:36:05.217957 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:36:05.335048 INFO    [node_server] [203.205.28.162:45459 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:36:07.086937 INFO    [node_server] [45.33.10.212:38649 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:36:07.223407 INFO    [node_server] [39.104.92.151:64583 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:36:11.182921 INFO    [node_server] [66.228.51.180:46423 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:36:13.846199 INFO    [node_server] [198.58.100.102:58851 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:36:15.070605 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:36:15.070742 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:36:23.248145 INFO    [node_server] [198.58.113.176:48003 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:36:29.492423 INFO    [node_server] [45.33.10.212:34127 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:36:38.273064 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:36:38.273197 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:36:38.537911 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:36:38.538026 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:36:38.614391 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:36:38.614508 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:36:38.913624 INFO    [node_server] [103.3.60.49:38597 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:36:41.563426 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:36:41.563546 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:36:46.893847 INFO    [node_server] [45.79.7.190:51953 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:36:47.845151 INFO    [node_server] [200.104.217.242:53465 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:36:53.091726 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:36:53.091837 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:36:58.183462 INFO    [node_server] [66.228.51.180:38043 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:37:11.211049 INFO    [node_server] [45.33.10.212:58011 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:37:13.359620 INFO    [node_server] [39.104.92.151:64667 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:37:15.381555 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:37:15.381674 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:37:15.462959 INFO    [node_server] [66.228.51.180:43839 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:37:15.644282 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:37:15.644389 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:37:15.905466 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:37:15.905579 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:37:16.228497 INFO    [node_server] [198.58.113.176:47605 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:37:18.487353 INFO    [node_server] [45.33.10.212:40203 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:37:19.445896 INFO    [node_server] [203.205.28.162:43545 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:37:19.680248 INFO    [node_server] [198.58.100.102:42627 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:37:21.654524 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:37:21.654646 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:37:21.919838 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:37:21.919969 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:37:25.517359 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:37:25.517461 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:37:25.605665 INFO    [node_server] [103.3.60.49:36057 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:37:27.978975 INFO    [node_server] [66.228.51.180:56653 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:37:31.805697 INFO    [node_server] [200.104.217.242:53483 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:37:36.722806 INFO    [node_server] [45.79.7.190:58413 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:37:53.225923 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:37:53.226052 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:37:53.490031 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:37:53.490168 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:37:54.277772 INFO    [node_server] [206.189.148.184:39545 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:37:54.319469 INFO    [node_server] [45.33.10.212:59741 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:37:58.754175 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:37:58.754305 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:37:59.016052 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:37:59.016175 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:37:59.019494 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:37:59.019643 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:37:59.724681 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:37:59.724798 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:38:00.555802 INFO    [node_server] [39.104.92.151:64736 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:38:01.603908 INFO    [node_server] [198.58.113.176:58105 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:38:08.877757 INFO    [node_server] [103.3.60.49:36145 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:38:09.725128 INFO    [node_server] [45.33.10.212:48163 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:38:12.815729 INFO    [node_server] [198.58.100.102:43243 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:38:23.154219 INFO    [node_server] [203.205.28.162:60347 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:38:23.695845 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:38:23.695978 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:38:24.391248 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:38:24.391366 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:38:25.006176 INFO    [node_server] [66.228.51.180:52825 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:38:27.226597 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:38:27.226712 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:38:30.032185 INFO    [node_server] [45.79.7.190:51421 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:38:35.321417 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:38:35.321527 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:38:35.586708 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:38:35.586828 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:38:35.879652 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:38:35.879776 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:38:42.506464 INFO    [node_server] [66.228.51.180:35821 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:38:47.182803 INFO    [node_server] [103.3.60.49:50091 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:38:47.463014 INFO    [node_server] [198.58.113.176:40463 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:38:56.030976 INFO    [node_server] [206.189.148.184:46169 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:38:58.599284 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:38:58.599408 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:39:02.466254 INFO    [node_server] [200.104.217.242:53519 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:39:04.738062 INFO    [node_server] [66.228.51.180:54881 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:39:05.542415 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:39:05.542535 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:39:08.562988 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:39:08.563093 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:39:08.828098 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:39:08.828218 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:39:09.090000 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:39:09.090135 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:39:09.840149 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:39:09.840270 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:39:11.879741 INFO    [node_server] [203.205.28.162:33025 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:39:21.490528 INFO    [node_server] [45.33.10.212:37637 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:39:22.223979 INFO    [node_server] [198.58.100.102:50825 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:39:26.966213 INFO    [node_server] [66.228.51.180:47335 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:39:32.958141 INFO    [node_server] [198.58.113.176:59847 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:39:35.557405 INFO    [node_server] [103.3.60.49:55525 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:39:37.608158 INFO    [node_server] [45.79.7.190:48005 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:39:37.788825 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:39:37.788964 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:39:37.871287 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:39:37.871407 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:39:39.508422 INFO    [node_server] [45.33.10.212:38973 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:39:41.564677 INFO    [node_server] [200.104.217.242:53536 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:39:43.135048 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:39:43.135170 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:39:43.788620 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:39:43.788738 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:39:47.069416 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:39:47.069537 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:39:47.330679 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:39:47.331054 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:39:48.064510 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:39:48.064628 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:40:08.677042 INFO    [node_server] [66.228.51.180:48907 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:40:09.531159 INFO    [node_server] [198.58.113.176:58457 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:40:10.877986 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:40:10.878094 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:40:11.141449 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:40:11.141574 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:40:13.751126 INFO    [node_server] [103.3.60.49:37837 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:40:16.404184 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:40:16.404305 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:40:19.774600 INFO    [node_server] [45.33.10.212:39861 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:40:21.673110 INFO    [node_server] [39.104.92.151:64946 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:40:21.675479 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:40:21.675605 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:40:23.837721 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:40:23.837840 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:40:25.819094 INFO    [node_server] [200.104.217.242:53555 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:40:28.478350 INFO    [node_server] [45.79.7.190:36221 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:40:36.540905 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:40:36.541018 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:40:41.803888 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:40:41.804001 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:40:42.068413 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:40:42.068544 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:40:43.937091 INFO    [node_server] [66.228.51.180:60717 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:40:45.402943 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:40:45.403056 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:40:45.663980 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:40:45.664092 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:40:46.421148 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:40:46.421267 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:40:46.523132 INFO    [node_server] [206.189.148.184:60426 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:40:47.940328 INFO    [node_server] [45.33.10.212:41747 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:40:54.175942 INFO    [node_server] [200.104.217.242:53566 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:41:04.462596 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:41:04.462711 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:41:04.727833 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:41:04.727954 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:41:04.995055 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:41:04.995191 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:41:05.467023 INFO    [node_server] [198.58.113.176:39323 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:41:05.800367 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:41:05.800483 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:41:06.064809 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:41:06.064925 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:41:06.328836 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:41:06.328967 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:41:06.543805 INFO    [node_server] [45.33.10.212:56059 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:41:06.704531 INFO    [node_server] [103.3.60.49:51713 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:41:11.222734 INFO    [node_server] [66.228.51.180:41337 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:41:16.213904 INFO    [node_server] [45.79.7.190:42143 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:41:17.051124 INFO    [node_server] [39.104.92.151:65030 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:41:18.230147 INFO    [node_server] [203.205.28.162:35783 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:41:18.946887 INFO    [node_server] [45.33.10.212:34445 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:41:24.466665 INFO    [node_server] [198.58.100.102:47311 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:41:37.519125 INFO    [node_server] [200.104.217.242:53582 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:41:38.002009 INFO    [node_server] [45.33.10.212:46881 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:41:39.927330 INFO    [node_server] [198.58.113.176:56125 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:41:40.764377 INFO    [node_server] [66.228.51.180:49243 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:41:43.031134 INFO    [node_server] [66.228.51.180:50993 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:41:44.372483 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:41:44.372597 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:41:53.415967 INFO    [node_server] [45.33.10.212:39729 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:41:54.578128 INFO    [node_server] [103.3.60.49:54317 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:41:54.690450 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:41:54.690568 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:41:54.693558 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:41:54.693682 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:41:54.956732 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:41:54.956868 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:41:58.237245 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:41:58.237375 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:41:58.308155 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:41:58.308284 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:42:06.982656 INFO    [node_server] [206.189.148.184:34968 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:42:10.561300 INFO    [node_server] [66.228.51.180:51823 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:42:12.448776 INFO    [node_server] [200.104.217.242:53594 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:42:14.044627 INFO    [node_server] [45.79.7.190:54805 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:42:20.773678 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:42:20.773872 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:42:21.038813 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:42:21.038931 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:42:21.763380 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:42:21.763492 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:42:22.538965 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:42:22.539095 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:42:22.614613 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:42:22.614740 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:42:22.662990 INFO    [node_server] [203.205.28.162:38785 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:42:23.404203 INFO    [node_server] [198.58.100.102:39199 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:42:24.541378 INFO    [node_server] [200.104.217.242:53599 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:42:26.958698 INFO    [node_server] [198.58.113.176:59045 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:42:27.805398 INFO    [node_server] [66.228.51.180:35555 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:42:35.790143 INFO    [node_server] [39.104.92.151:65143 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:42:39.622877 INFO    [node_server] [45.33.10.212:37985 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:42:43.113366 INFO    [node_server] [103.3.60.49:46595 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:42:45.364118 INFO    [node_server] [66.228.51.180:50151 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:42:54.905705 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:42:54.905852 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:42:56.664203 INFO    [node_server] [200.104.217.242:53611 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:43:00.169503 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:43:00.169624 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:43:05.434731 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:43:05.434864 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:43:05.701596 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:43:05.701784 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:43:05.774696 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:43:05.774807 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:43:11.518991 INFO    [node_server] [206.189.148.184:34497 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:43:11.813552 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:43:11.813652 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:43:15.347848 INFO    [node_server] [45.33.10.212:53369 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:43:16.705952 INFO    [node_server] [45.79.7.190:43383 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:43:19.897419 INFO    [node_server] [66.228.51.180:57387 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:43:21.106525 INFO    [node_server] [203.205.28.162:44957 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:43:21.649714 INFO    [node_server] [103.3.60.49:41105 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:43:29.512858 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:43:29.512981 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:43:29.775362 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:43:29.775496 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:43:33.573176 INFO    [node_server] [45.33.10.212:42991 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:43:34.988899 INFO    [node_server] [200.104.217.242:53626 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:43:37.405660 INFO    [node_server] [66.228.51.180:43995 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:43:39.106039 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:43:39.106158 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:43:39.177490 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:43:39.177620 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:43:44.944320 INFO    [node_server] [39.104.92.151:65251 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:43:44.977511 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:43:44.977634 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:43:45.239345 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:43:45.239458 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:43:49.695705 INFO    [node_server] [66.228.51.180:49221 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:43:53.535238 INFO    [node_server] [198.58.113.176:60545 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:43:56.952715 INFO    [node_server] [66.228.51.180:37971 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:44:05.936289 INFO    [node_server] [206.189.148.184:41409 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:44:07.463448 INFO    [node_server] [45.33.10.212:41261 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:44:09.217095 INFO    [node_server] [66.228.51.180:33399 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:44:09.909603 INFO    [node_server] [103.3.60.49:45639 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:44:12.532619 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:44:12.532748 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:44:15.414141 INFO    [node_server] [45.79.7.190:45215 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:44:18.211118 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:44:18.211249 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:44:18.475005 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:44:18.475117 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:44:20.295080 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:44:20.295195 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:44:20.556468 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:44:20.556609 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:44:20.580453 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:44:20.580576 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:44:31.748596 INFO    [node_server] [66.228.51.180:52805 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:44:33.650757 INFO    [node_server] [198.58.100.102:35113 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:44:34.271375 INFO    [node_server] [66.228.51.180:43081 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:44:40.139996 INFO    [node_server] [45.33.10.212:34537 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:44:42.868295 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:44:42.868419 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:44:46.197524 INFO    [node_server] [39.104.92.151:65343 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:44:48.211020 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:44:48.211135 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:44:56.497467 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:44:56.497583 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:44:57.223625 ERROR   [node_server] [103.3.60.49:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:44:57.223732 WARNING [node_server] Failed to HANDSHAKE with peer 103.3.60.49:42648
+2018-Sep-13 17:44:57.226739 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:44:57.227065 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:44:57.489202 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:44:57.489329 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:44:57.670736 INFO    [node_server] [103.3.60.49:38897 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:45:01.795381 INFO    [node_server] [66.228.51.180:47969 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:45:04.529040 INFO    [node_server] [198.58.113.176:59943 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:45:04.930576 INFO    [node_server] [45.79.7.190:55285 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:45:07.211174 INFO    [node_server] [45.33.10.212:54767 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:45:07.789307 INFO    [node_server] [203.205.28.162:55973 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:45:09.714157 INFO    [node_server] [200.104.217.242:53663 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:45:15.207504 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:45:15.207619 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:45:15.494415 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:45:15.494542 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:45:15.758352 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:45:15.758472 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:45:19.091939 INFO    [node_server] [66.228.51.180:39891 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:45:29.210835 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:45:29.210951 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:45:38.253203 INFO    [node_server] [45.33.10.212:58083 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:45:42.414857 INFO    [node_server] [39.104.92.151:65429 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:45:47.783040 INFO    [node_server] [45.79.7.190:36679 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:45:51.894726 INFO    [node_server] [200.104.217.242:53676 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:45:51.944677 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:45:51.944790 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:45:52.208818 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:45:52.208925 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:45:56.310191 INFO    [node_server] [198.58.113.176:52907 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:45:56.460270 INFO    [node_server] [45.33.10.212:43219 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:45:59.229551 INFO    [node_server] [206.189.148.184:46424 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:45:59.343612 INFO    [node_server] [66.228.51.180:45015 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:46:00.495918 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:46:00.496037 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:46:01.614841 INFO    [node_server] [66.228.51.180:50869 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:46:05.975038 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:46:05.975224 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:46:06.236621 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:46:06.236747 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:46:13.853758 INFO    [node_server] [45.33.10.212:39475 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:46:21.517793 INFO    [node_server] [203.205.28.162:54751 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:46:23.676575 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:46:23.676686 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:46:23.939124 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:46:23.939255 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:46:24.201562 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:46:24.201813 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:46:24.488631 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:46:24.488755 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:46:29.363043 INFO    [node_server] [66.228.51.180:35459 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:46:29.712492 INFO    [node_server] [198.58.100.102:47773 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:46:35.939625 INFO    [node_server] [198.58.113.176:53955 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:46:36.621461 INFO    [node_server] [66.228.51.180:46943 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:46:40.797813 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:46:40.797933 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:46:48.314755 INFO    [node_server] [45.33.10.212:48127 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:46:49.194780 INFO    [node_server] [45.79.7.190:51895 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:46:49.296455 INFO    [node_server] [39.104.92.151:65518 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:46:58.730666 INFO    [node_server] [206.189.148.184:49009 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:47:02.515991 INFO    [node_server] [45.33.10.212:54293 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:47:06.303781 INFO    [node_server] [66.228.51.180:55285 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:47:10.585359 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:47:10.585484 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:47:10.588697 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:47:10.588827 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:47:10.613618 INFO    [node_server] [198.58.100.102:43501 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:47:11.319236 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:47:11.319357 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:47:11.583193 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:47:11.583302 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:47:11.851131 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:47:11.851243 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:47:15.007273 INFO    [node_server] [45.33.10.212:54123 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:47:16.170547 INFO    [node_server] [200.104.217.242:53710 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:47:24.771346 INFO    [node_server] [203.205.28.162:57409 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:47:28.357958 INFO    [node_server] [45.33.10.212:40217 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:47:29.086929 INFO    [node_server] [66.228.51.180:39613 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:47:33.796685 INFO    [node_server] [198.58.113.176:60831 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:47:36.345494 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:47:36.345600 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:47:36.609976 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:47:36.610094 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:47:36.873184 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:47:36.873296 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:47:37.138315 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:47:37.138428 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:47:37.220809 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:47:37.220916 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:47:41.652852 INFO    [node_server] [66.228.51.180:49587 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:47:46.887338 INFO    [node_server] [200.104.217.242:53720 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:47:50.492279 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:47:50.492395 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:48:02.176849 INFO    [node_server] [45.33.10.212:36873 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:48:03.352194 INFO    [node_server] [39.104.92.151:49236 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:48:04.672412 INFO    [node_server] [198.58.113.176:48289 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:48:04.947951 INFO    [node_server] [66.228.51.180:33455 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:48:05.779602 INFO    [node_server] [198.58.100.102:36489 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:48:07.522289 INFO    [node_server] [66.228.51.180:38119 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:48:08.206351 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:48:08.206467 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:48:08.469134 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:48:08.469254 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:48:08.547039 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:48:08.547145 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:48:08.815074 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:48:08.815189 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:48:09.087321 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:48:09.087444 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:48:10.907589 INFO    [node_server] [206.189.148.184:48156 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:48:17.765890 INFO    [node_server] [45.33.10.212:38209 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:48:19.182664 INFO    [node_server] [200.104.217.242:53736 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:48:20.510338 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:48:20.510441 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:48:23.120554 INFO    [node_server] [45.79.7.190:35903 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:48:28.812851 INFO    [node_server] [203.205.28.162:37929 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:48:34.790218 INFO    [node_server] [66.228.51.180:54775 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:48:37.970392 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:48:37.970504 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:48:38.642117 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:48:38.642241 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:48:38.763813 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:48:38.763922 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:48:44.694759 INFO    [node_server] [200.104.217.242:53745 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:48:44.706224 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:48:44.706343 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:48:49.727624 INFO    [node_server] [45.33.10.212:32895 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:48:50.278475 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:48:50.278594 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:48:52.246469 INFO    [node_server] [66.228.51.180:50521 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:48:59.485520 INFO    [node_server] [39.104.92.151:49324 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:49:04.748081 INFO    [node_server] [66.228.51.180:55091 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:49:07.566016 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:49:07.566141 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:49:11.125824 INFO    [node_server] [206.189.148.184:49891 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:49:12.219376 INFO    [node_server] [45.33.10.212:43019 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:49:12.829010 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:49:12.829143 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:49:13.090848 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:49:13.090980 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:49:13.172406 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:49:13.172515 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:49:15.178767 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:49:15.178900 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:49:15.182379 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:49:15.182555 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:49:16.906472 INFO    [node_server] [203.205.28.162:48447 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:49:17.707337 INFO    [node_server] [66.228.51.180:59643 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:49:19.008692 INFO    [node_server] [45.79.7.190:37203 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:49:28.038908 INFO    [node_server] [200.104.217.242:53761 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:49:39.858359 INFO    [node_server] [198.58.113.176:34539 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:49:43.751989 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:49:43.752126 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:49:44.019748 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:49:44.019866 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:49:44.646138 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:49:44.646258 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:49:44.912975 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:49:44.913113 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:49:44.987851 INFO    [node_server] [66.228.51.180:33977 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:49:50.384499 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:49:50.384616 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:49:50.387996 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:49:50.388132 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:49:54.737372 INFO    [node_server] [45.33.10.212:45727 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:49:59.441966 INFO    [node_server] [39.104.92.151:49417 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:50:02.994482 INFO    [node_server] [66.228.51.180:59235 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:50:05.487050 INFO    [node_server] [66.228.51.180:39359 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:50:06.041214 INFO    [node_server] [198.58.113.176:34885 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:50:08.100683 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:50:08.100799 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:50:08.366234 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:50:08.366374 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:50:08.854897 INFO    [node_server] [200.104.217.242:53777 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:50:17.330734 INFO    [node_server] [206.189.148.184:58642 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:50:17.535707 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:50:17.535812 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:50:17.616350 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:50:17.616460 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:50:25.831957 INFO    [node_server] [203.205.28.162:45675 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:50:27.008911 INFO    [node_server] [45.79.7.190:55581 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:50:28.027053 INFO    [node_server] [66.228.51.180:50807 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:50:32.183317 INFO    [node_server] [200.104.217.242:53786 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:50:35.776566 INFO    [node_server] [66.228.51.180:47551 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:50:40.851576 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:50:40.851693 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:50:47.577134 INFO    [node_server] [45.33.10.212:33353 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:50:49.026221 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:50:49.026330 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:50:49.289684 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:50:49.289954 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:50:49.659284 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:50:49.659387 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:50:49.924570 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:50:49.924682 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:50:53.060281 INFO    [node_server] [66.228.51.180:41261 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:50:55.441476 INFO    [node_server] [45.33.10.212:57057 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:50:57.646690 INFO    [node_server] [200.104.217.242:53797 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:51:03.531570 INFO    [node_server] [198.58.113.176:45605 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:51:14.507424 INFO    [node_server] [203.205.28.162:36887 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:51:15.059743 INFO    [node_server] [198.58.100.102:35367 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:51:16.069336 INFO    [node_server] [39.104.92.151:49529 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:51:17.636818 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:51:17.636953 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:51:17.640365 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:51:17.640487 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:51:17.905151 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:51:17.905266 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:51:22.873123 INFO    [node_server] [45.79.7.190:49329 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:51:23.041344 INFO    [node_server] [66.228.51.180:40825 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:51:26.141929 INFO    [node_server] [45.33.10.212:56445 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:51:34.350312 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:51:34.350442 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:51:35.786141 INFO    [node_server] [66.228.51.180:55551 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:51:38.412014 INFO    [node_server] [200.104.217.242:53812 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:51:48.278506 INFO    [node_server] [66.228.51.180:41899 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:51:50.275928 INFO    [node_server] [45.33.10.212:42569 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:51:55.274061 INFO    [node_server] [198.58.113.176:42035 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:51:57.069158 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:51:57.069278 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:52:00.350548 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:52:00.350662 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:52:00.613358 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:52:00.613516 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:52:00.697305 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:52:00.697426 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:52:00.717977 INFO    [node_server] [45.79.7.190:41315 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:52:01.105105 INFO    [node_server] [66.228.51.180:59359 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:52:02.034378 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:52:02.034477 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:52:07.299010 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:52:07.299125 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:52:08.462851 INFO    [node_server] [203.205.28.162:52819 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:52:12.686499 INFO    [node_server] [206.189.148.184:57636 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:52:21.937098 INFO    [node_server] [200.104.217.242:53828 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:52:24.099063 INFO    [node_server] [66.228.51.180:54897 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:52:25.274519 INFO    [node_server] [45.33.10.212:43387 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:52:25.985251 INFO    [node_server] [198.58.100.102:42951 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:52:27.889256 INFO    [node_server] [39.104.92.151:49636 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:52:30.053938 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:52:30.054061 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:52:32.409441 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:52:32.409542 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:52:32.412854 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:52:32.412969 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:52:37.689955 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:52:37.690077 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:52:44.090486 INFO    [node_server] [66.228.51.180:47683 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:52:46.161195 INFO    [node_server] [198.58.113.176:44317 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:52:53.759616 INFO    [node_server] [45.79.7.190:43121 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:53:06.585387 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:53:06.585509 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:53:06.846779 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:53:06.846895 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:53:11.366104 INFO    [node_server] [66.228.51.180:51153 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:53:12.125326 INFO    [node_server] [203.205.28.162:45571 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:53:14.108413 INFO    [node_server] [66.228.51.180:60149 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:53:14.651121 INFO    [node_server] [45.33.10.212:50311 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:53:15.823100 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:53:15.823227 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:53:16.089338 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:53:16.089453 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:53:27.295224 INFO    [node_server] [198.58.113.176:38219 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:53:31.323373 INFO    [node_server] [39.104.92.151:49727 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:53:31.489633 INFO    [node_server] [45.33.10.212:38417 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:53:34.343466 INFO    [node_server] [198.58.100.102:53603 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:53:36.894325 INFO    [node_server] [66.228.51.180:43271 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:53:48.565018 INFO    [node_server] [200.104.217.242:53859 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:53:48.829035 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:53:48.829149 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:53:54.521248 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:53:54.521368 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:53:54.783988 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:53:54.784100 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:53:55.256445 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:53:55.256571 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:54:04.934792 INFO    [node_server] [66.228.51.180:54461 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:54:09.776227 INFO    [node_server] [198.58.113.176:50991 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:54:25.269520 INFO    [node_server] [203.205.28.162:55851 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:54:27.528514 INFO    [node_server] [39.104.92.151:49809 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:54:27.944663 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:54:27.944789 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:54:29.452333 INFO    [node_server] [66.228.51.180:56183 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:54:31.201523 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:54:31.201654 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:54:31.463786 INFO    [protocol] [103.3.60.49:50319 INC] Sync data returned unknown top block: 11055 -> 11097 [42 blocks (0 days) behind] 
+2018-Sep-13 17:54:31.463786 INFO    [protocol] SYNCHRONIZATION started
+2018-Sep-13 17:54:32.709702 INFO    [protocol] [103.3.60.49:42648 OUT] Sync data returned unknown top block: 11055 -> 11097 [42 blocks (0 days) behind] 
+2018-Sep-13 17:54:32.709702 INFO    [protocol] SYNCHRONIZATION started
+2018-Sep-13 17:54:32.808198 INFO    [node_server] [206.189.148.184:51481 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:54:34.078925 WARNING [Core] Failed to validate block bcfe35809ca21369ffa49ba813a26de64f15ca5d29b52b41370e0b17c5077979: Wrong block version
+2018-Sep-13 17:54:34.563829 WARNING [Core] Failed to validate block bcfe35809ca21369ffa49ba813a26de64f15ca5d29b52b41370e0b17c5077979: Wrong block version
+2018-Sep-13 17:54:39.222875 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:54:39.223011 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:54:42.963521 INFO    [protocol] [103.3.60.49:59633 INC] Sync data returned unknown top block: 11055 -> 11097 [42 blocks (0 days) behind] 
+2018-Sep-13 17:54:42.963521 INFO    [protocol] SYNCHRONIZATION started
+2018-Sep-13 17:54:44.835609 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:54:44.835723 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:54:44.903018 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:54:44.903147 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:54:44.906174 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:54:44.906269 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:54:45.547653 WARNING [Core] Failed to validate block bcfe35809ca21369ffa49ba813a26de64f15ca5d29b52b41370e0b17c5077979: Wrong block version
+2018-Sep-13 17:54:47.697471 INFO    [node_server] [66.228.51.180:52975 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:54:48.033351 INFO    [node_server] [198.58.113.176:45653 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:54:49.845449 INFO    [node_server] [45.33.10.212:50513 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:54:56.624952 INFO    [node_server] [45.79.7.190:39929 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:55:08.846744 INFO    [protocol] [103.3.60.49:42648 OUT] Sync data returned unknown top block: 11055 -> 11097 [42 blocks (0 days) behind] 
+2018-Sep-13 17:55:08.846744 INFO    [protocol] SYNCHRONIZATION started
+2018-Sep-13 17:55:10.624092 INFO    [node_server] [66.228.51.180:45721 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:55:10.757288 WARNING [Core] Failed to validate block bcfe35809ca21369ffa49ba813a26de64f15ca5d29b52b41370e0b17c5077979: Wrong block version
+2018-Sep-13 17:55:11.961563 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:55:11.961704 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:55:12.883664 INFO    [node_server] [66.228.51.180:48111 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:55:12.923803 INFO    [node_server] [45.33.10.212:57763 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:55:16.964339 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:55:16.964445 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:55:24.010435 INFO    [node_server] [203.205.28.162:35759 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:55:27.338205 INFO    [node_server] [45.33.10.212:44249 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:55:28.103598 INFO    [node_server] [198.58.113.176:33003 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:55:28.262580 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:55:28.262709 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:55:34.724578 INFO    [protocol] [103.3.60.49:48717 INC] Sync data returned unknown top block: 11055 -> 11097 [42 blocks (0 days) behind] 
+2018-Sep-13 17:55:34.724578 INFO    [protocol] SYNCHRONIZATION started
+2018-Sep-13 17:55:36.096502 INFO    [node_server] [66.228.51.180:45835 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:55:37.386777 WARNING [Core] Failed to validate block bcfe35809ca21369ffa49ba813a26de64f15ca5d29b52b41370e0b17c5077979: Wrong block version
+2018-Sep-13 17:55:44.990082 INFO    [node_server] [45.79.7.190:54729 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:55:51.806868 INFO    [node_server] [206.189.148.184:59762 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:55:55.567415 INFO    [protocol] [103.3.60.49:42648 OUT] Sync data returned unknown top block: 11055 -> 11097 [42 blocks (0 days) behind] 
+2018-Sep-13 17:55:55.567415 INFO    [protocol] SYNCHRONIZATION started
+2018-Sep-13 17:55:55.831043 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:55:55.831171 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:55:56.097531 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:55:56.097653 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:55:56.361922 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:55:56.362090 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:55:57.495995 WARNING [Core] Failed to validate block bcfe35809ca21369ffa49ba813a26de64f15ca5d29b52b41370e0b17c5077979: Wrong block version
+2018-Sep-13 17:55:58.380021 INFO    [node_server] [66.228.51.180:57847 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:55:59.668253 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:55:59.668350 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:55:59.934449 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:55:59.934549 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:56:03.245250 INFO    [node_server] [45.33.10.212:33513 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:56:10.662433 INFO    [node_server] [66.228.51.180:47301 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:56:19.014015 INFO    [node_server] [66.228.51.180:41297 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:56:22.671889 INFO    [node_server] [45.79.7.190:39959 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:56:24.800075 INFO    [node_server] [45.33.10.212:58379 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:56:27.250800 INFO    [protocol] [103.3.60.49:42648 OUT] Sync data returned unknown top block: 11055 -> 11097 [42 blocks (0 days) behind] 
+2018-Sep-13 17:56:27.250800 INFO    [protocol] SYNCHRONIZATION started
+2018-Sep-13 17:56:29.093507 WARNING [Core] Failed to validate block bcfe35809ca21369ffa49ba813a26de64f15ca5d29b52b41370e0b17c5077979: Wrong block version
+2018-Sep-13 17:56:29.384473 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:56:29.384597 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:56:29.519963 INFO    [node_server] [198.58.100.102:51305 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:56:29.646254 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:56:29.646374 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:56:32.868805 INFO    [node_server] [203.205.28.162:38871 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:56:34.231094 INFO    [node_server] [39.104.92.151:49997 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:56:37.081688 INFO    [node_server] [45.33.10.212:52411 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:56:39.672799 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:56:39.672901 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:56:39.736776 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:56:39.736895 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:56:39.846478 INFO    [node_server] [206.189.148.184:57610 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:56:39.999181 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:56:39.999288 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:56:47.296654 INFO    [protocol] [103.3.60.49:55361 INC] Sync data returned unknown top block: 11055 -> 11097 [42 blocks (0 days) behind] 
+2018-Sep-13 17:56:47.296654 INFO    [protocol] SYNCHRONIZATION started
+2018-Sep-13 17:56:49.980058 WARNING [Core] Failed to validate block bcfe35809ca21369ffa49ba813a26de64f15ca5d29b52b41370e0b17c5077979: Wrong block version
+2018-Sep-13 17:57:00.440465 INFO    [node_server] [200.104.217.242:53935 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:57:02.991008 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:57:02.991144 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:57:04.466124 INFO    [protocol] [103.3.60.49:42648 OUT] Sync data returned unknown top block: 11055 -> 11097 [42 blocks (0 days) behind] 
+2018-Sep-13 17:57:04.466124 INFO    [protocol] SYNCHRONIZATION started
+2018-Sep-13 17:57:04.727388 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:57:04.727507 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:57:04.957585 INFO    [node_server] [45.33.10.212:48569 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:57:06.353387 WARNING [Core] Failed to validate block bcfe35809ca21369ffa49ba813a26de64f15ca5d29b52b41370e0b17c5077979: Wrong block version
+2018-Sep-13 17:57:08.972253 INFO    [node_server] [66.228.51.180:48505 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:57:11.687312 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:57:11.687449 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:57:14.750457 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:57:14.750592 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:57:15.012596 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:57:15.012714 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:57:15.690966 INFO    [node_server] [45.33.10.212:54995 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:57:22.472957 INFO    [node_server] [45.79.7.190:54061 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:57:26.047408 INFO    [node_server] [203.205.28.162:48179 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:57:32.106363 INFO    [node_server] [198.58.113.176:59977 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:57:36.098854 INFO    [node_server] [45.33.10.212:52473 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:57:40.174946 INFO    [protocol] [103.3.60.49:52963 INC] Sync data returned unknown top block: 11055 -> 11097 [42 blocks (0 days) behind] 
+2018-Sep-13 17:57:40.174946 INFO    [protocol] SYNCHRONIZATION started
+2018-Sep-13 17:57:40.524302 INFO    [node_server] [39.104.92.151:50086 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:57:40.794169 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:57:40.794317 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:57:41.061121 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:57:41.061282 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:57:41.085770 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:57:41.085886 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:57:41.349002 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:57:41.349126 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:57:41.610802 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:57:41.610933 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:57:42.767883 WARNING [Core] Failed to validate block bcfe35809ca21369ffa49ba813a26de64f15ca5d29b52b41370e0b17c5077979: Wrong block version
+2018-Sep-13 17:57:47.711434 INFO    [protocol] [103.3.60.49:33171 INC] Sync data returned unknown top block: 11055 -> 11097 [42 blocks (0 days) behind] 
+2018-Sep-13 17:57:47.711434 INFO    [protocol] SYNCHRONIZATION started
+2018-Sep-13 17:57:50.213523 WARNING [Core] Failed to validate block bcfe35809ca21369ffa49ba813a26de64f15ca5d29b52b41370e0b17c5077979: Wrong block version
+2018-Sep-13 17:57:56.675170 INFO    [node_server] [66.228.51.180:48725 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:58:00.278402 INFO    [node_server] [206.189.148.184:53005 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:58:02.202368 INFO    [node_server] [45.33.10.212:47257 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:58:12.045973 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:58:12.046120 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:58:12.311896 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:58:12.312032 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 17:58:13.842922 INFO    [protocol] [103.3.60.49:42648 OUT] Sync data returned unknown top block: 11055 -> 11097 [42 blocks (0 days) behind] 
+2018-Sep-13 17:58:13.842922 INFO    [protocol] SYNCHRONIZATION started
+2018-Sep-13 17:58:14.198048 INFO    [node_server] [198.58.113.176:36667 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:58:14.930241 INFO    [node_server] [66.228.51.180:44563 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:58:15.855966 WARNING [Core] Failed to validate block bcfe35809ca21369ffa49ba813a26de64f15ca5d29b52b41370e0b17c5077979: Wrong block version
+2018-Sep-13 17:58:18.392425 INFO    [protocol] [103.3.60.49:42648 OUT] Sync data returned unknown top block: 11055 -> 11097 [42 blocks (0 days) behind] 
+2018-Sep-13 17:58:18.392425 INFO    [protocol] SYNCHRONIZATION started
+2018-Sep-13 17:58:18.394909 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:58:18.395074 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 17:58:18.654230 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:58:18.654428 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 17:58:18.917619 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:58:18.917759 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 17:58:20.259340 WARNING [Core] Failed to validate block bcfe35809ca21369ffa49ba813a26de64f15ca5d29b52b41370e0b17c5077979: Wrong block version
+2018-Sep-13 17:58:20.475752 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:58:20.475884 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 17:58:21.231685 ERROR   [node_server] [200.104.217.242:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 17:58:21.231808 WARNING [node_server] Failed to HANDSHAKE with peer 200.104.217.242:42648
+2018-Sep-13 17:58:30.092983 INFO    [node_server] [203.205.28.162:49009 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:58:32.319250 INFO    [node_server] [45.79.7.190:57113 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:58:36.196772 INFO    [node_server] [200.104.217.242:53971 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 17:58:40.176196 INFO    [node_server] Stop signal sent
+2018-Sep-13 17:58:40.176319 INFO    [node_server] Stopping NodeServer and it's0 connections...
+2018-Sep-13 17:58:41.177506 INFO    [node_server] NodeServer loop stopped
+2018-Sep-13 17:58:41.177598 INFO    [daemon] p2p net loop stopped
+2018-Sep-13 17:58:41.177644 INFO    [daemon] Stopping core rpc server...
+2018-Sep-13 17:58:41.177740 INFO    [daemon] Deinitializing p2p...
+2018-Sep-13 17:58:41.178664 INFO    [RocksDBWrapper] Closing DB.
+2018-Sep-13 17:58:41.181546 INFO    [daemon] Node stopped.
+2018-Sep-13 18:41:22.470720 INFO    [daemon] Constella v1.4.1.1 (0.1-master-g76fd56e)
+2018-Sep-13 18:41:22.471094 INFO    [daemon] Module folder: ./Constellad
+2018-Sep-13 18:41:22.473005 INFO    [RocksDBWrapper] Opening DB in /root/.Constella/DB
+2018-Sep-13 18:41:22.567035 INFO    [RocksDBWrapper] DB opened in /root/.Constella/DB
+2018-Sep-13 18:41:22.606197 INFO    [daemon] Initializing core...
+2018-Sep-13 18:41:22.704031 INFO    [daemon] Core initialized OK
+2018-Sep-13 18:41:22.704135 INFO    [daemon] Initializing p2p server...
+2018-Sep-13 18:41:23.667544 ERROR   [node_server] Failed to resolve host name 'seed5.constellacoin.cl': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2018-Sep-13 18:41:23.668012 INFO    [node_server] Binding on 0.0.0.0:42648
+2018-Sep-13 18:41:23.668113 INFO    [node_server] Net service binded on 0.0.0.0:42648
+2018-Sep-13 18:41:23.668147 INFO    [node_server] Attempting to add IGD port mapping.
+2018-Sep-13 18:41:25.461246 ERROR   [node_server] UPNP_AddPortMapping failed.
+2018-Sep-13 18:41:25.461345 INFO    [daemon] P2p server initialized OK
+2018-Sep-13 18:41:25.461455 INFO    [daemon] Starting core rpc server on address 127.0.0.1:42649
+2018-Sep-13 18:41:25.461535 INFO    [daemon] Core rpc server started ok
+2018-Sep-13 18:41:25.461582 INFO    [daemon] Starting p2p net loop...
+2018-Sep-13 18:41:25.461613 INFO    [node_server] Starting node_server
+2018-Sep-13 18:41:25.722511 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 18:41:25.722640 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 18:41:29.004114 ERROR   [node_server] [198.58.100.102:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 18:41:29.004245 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.100.102:42648
+2018-Sep-13 18:41:34.055910 INFO    [node_server] [45.33.10.212:53935 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 18:41:34.267982 ERROR   [node_server] [198.58.113.176:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 18:41:34.268097 WARNING [node_server] Failed to HANDSHAKE with peer 198.58.113.176:42648
+2018-Sep-13 18:41:35.810977 INFO    [protocol] [103.3.60.49:42648 OUT] Sync data returned unknown top block: 11055 -> 11097 [42 blocks (0 days) behind] 
+2018-Sep-13 18:41:35.810977 INFO    [protocol] SYNCHRONIZATION started
+2018-Sep-13 18:41:37.744363 WARNING [Core] Failed to validate block bcfe35809ca21369ffa49ba813a26de64f15ca5d29b52b41370e0b17c5077979: Wrong block version
+2018-Sep-13 18:41:39.119200 ERROR   [node_server] [45.79.7.190:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 18:41:39.119326 WARNING [node_server] Failed to HANDSHAKE with peer 45.79.7.190:42648
+2018-Sep-13 18:41:39.122227 ERROR   [node_server] [179.9.233.241:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 18:41:39.122341 WARNING [node_server] Failed to HANDSHAKE with peer 179.9.233.241:42648
+2018-Sep-13 18:41:42.412285 ERROR   [node_server] [45.33.10.212:42648 OUT] Failed to invoke COMMAND_HANDSHAKE, closing connection.
+2018-Sep-13 18:41:42.412398 WARNING [node_server] Failed to HANDSHAKE with peer 45.33.10.212:42648
+2018-Sep-13 18:41:47.038499 INFO    [node_server] [66.228.51.180:46077 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 18:41:49.094616 INFO    [node_server] [203.205.28.162:32981 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 18:41:51.705109 INFO    [node_server] [45.79.7.190:57875 INC] WRONG NETWORK AGENT CONNECTED! id=f004afa5-ca7d-4246-9abc-ff82001a52a1
+2018-Sep-13 18:41:54.667074 INFO    [node_server] Stop signal sent
+2018-Sep-13 18:41:54.667190 INFO    [node_server] Stopping NodeServer and it's0 connections...
+2018-Sep-13 18:41:55.667568 INFO    [node_server] NodeServer loop stopped
+2018-Sep-13 18:41:55.667655 INFO    [daemon] p2p net loop stopped
+2018-Sep-13 18:41:55.667696 INFO    [daemon] Stopping core rpc server...
+2018-Sep-13 18:41:55.667760 INFO    [daemon] Deinitializing p2p...
+2018-Sep-13 18:41:55.668764 INFO    [RocksDBWrapper] Closing DB.
+2018-Sep-13 18:41:55.670127 INFO    [daemon] Node stopped.

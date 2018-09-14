@@ -1,0 +1,4 @@
+set(CN_PROJECT_NAME "Constella")
+set(CN_CURRENCY_DISPLAY_NAME "Constella")
+set(CN_CURRENCY_TICKER "XCC")
+set(CN_VERSION 1.2.0)

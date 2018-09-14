@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Constella Wallet
+Comment=Constella wallet
+Exec=Constella %U
+Terminal=false
+Type=Application
+Icon=constella
+MimeType=x-scheme-handler/constella;
+Categories=Office;Finance;
